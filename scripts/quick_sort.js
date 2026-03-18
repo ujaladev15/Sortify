@@ -47,7 +47,7 @@ function quick_partition (start, end)
     div_update(divs[start],div_sizes[start],"red");//Color update
     div_update(divs[i-1],div_sizes[i-1],"red");//Color update
     
-    var temp=div_sizes[start];//put the pivot element in its proper place.
+    var temp=div_sizes[start];                   //put the pivot element in its proper place.
     div_sizes[start]=div_sizes[i-1];
     div_sizes[i-1]=temp;
 
