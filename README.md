@@ -17,4 +17,4 @@ The application is built with a strong focus on performance 🚀, responsiveness
 🛠️ Tech Stack
 React.js, JavaScript, HTML, CSS
 
-Deploye Link: https://sortify-053fb6.netlify.app/
+Deploy Link: https://sortify-053fb6.netlify.app/
