@@ -6,7 +6,7 @@ The project provides visual animations for popular sorting algorithms such as Bu
 
 The application is built with a strong focus on performance 🚀, responsiveness 📱, and user experience 🎨. It features a clean and intuitive interface that allows users to interact seamlessly while learning sorting techniques in a practical and engaging way 🧠.
 
-✨ Key Features
+✨ Key Features 
 
 • Real-time visualization of multiple sorting algorithms 👀
 • Adjustable sorting speed for better understanding ⏳
